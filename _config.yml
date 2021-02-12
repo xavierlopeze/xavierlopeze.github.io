@@ -40,17 +40,17 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "xavier.lopeze@gmail.com"
-  facebook: deanattali
-  github: "https://github.com/xavierlopeze"
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: c/daattali
+#  facebook: deanattali
+  github: "xavierlopeze"
+  twitter: "xavierlopeze"
+#  patreon: DeanAttali
+#  youtube: c/daattali
 #  reddit: yourname
-#  linkedin: daattali
+  linkedin: xavierlopeze
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-#  instagram: deanat78
+  instagram: xavierlopez.es
 #  spotify: yourname
 #  telephone: +14159998888
 #  steam: deanat78
