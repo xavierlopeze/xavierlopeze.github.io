@@ -4,7 +4,7 @@ title: About me
 subtitle: A Dance with Data
 ---
 
-My name is Xavier López.  
+My name is Xavier López.   
 I am mostly interested in **Data Science**, **Mathematics** and **Swing Dance**, but I may write about anything in this **personal blog**.
 
 
