@@ -8,7 +8,7 @@ My name is Xavier López. I am mostly interested in Data Science, Mathematics an
 
 
 I am curious to understand the reason of things and enjoy solving problems just for the fun of it.
-
-
 I consider myself a natural introvert, which I believe it is a strength, not a weakness. 
+
+
 The goal of this blog is to showcase some of the things I work on and think about to the world.
