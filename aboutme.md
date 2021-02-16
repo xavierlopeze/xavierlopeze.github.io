@@ -1,16 +1,11 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: A Dance with Data
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Xavier López. I am mostly interested in Data Science, Mathematics and Swing Dance and teaching, but I may write about anything in this personal blog.
+I am curious to understand the reason of things and enjoy solving problems just for the fun of it.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+I am a natural introvert, which I consider a strength, not a weakness. 
+The goal of this blog is to showcase some of the things I work on and think about to the world.
