@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Data Science is not Big Data
+title: Building a Movie Recommender System
 subtitle: Science vs Technology
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
