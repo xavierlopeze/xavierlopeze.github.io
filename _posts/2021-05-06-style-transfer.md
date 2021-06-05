@@ -109,7 +109,7 @@ python evaluate.py --checkpoint ./rain-princess.ckpt --in-path <path_to_input_fi
 and Super-Resolution](https://cs.stanford.edu/people/jcjohns/eccv16/)
 - [Instance Normalization: The Missing Ingredient for Fast Stylization](https://arxiv.org/abs/1607.08022)
 -[A Neural Algorithm of Artistic Style](https://arxiv.org/abs/1508.06576)
--[Texture Synthesis Using Convolutional Neural Networks (https://arxiv.org/abs/1505.07376)
+-[Texture Synthesis Using Convolutional Neural Networks](https://arxiv.org/abs/1505.07376)
 
 
 
