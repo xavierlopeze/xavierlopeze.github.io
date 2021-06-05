@@ -32,28 +32,28 @@ Moreover the authors have trained with [other styles](https://github.com/lengstr
 
 #### Check the other styles:
 
-Rain Princess
+[Rain Princess](https://afremov.com/)
 <p float="center">
 <img src="https://i.ibb.co/G3jC6fK/rain-princess.jpg" alt="drawing" width="200"/>
 <img src="https://i.ibb.co/m69TG7K/rcboat.jpg" alt="drawing" width="250"/>
 <img src="https://i.ibb.co/KNW2zJL/rcboat-st.jpg" alt="drawing" width="250"/>
 </p>
 
-The Scream
+[The Scream](https://en.wikipedia.org/wiki/The_Scream)
 <p float="center">
 <img src="https://i.ibb.co/9t2MBfD/the-scream.jpg" alt="drawing" width="200"/>
 <img src="https://i.ibb.co/m69TG7K/rcboat.jpg" alt="drawing" width="250"/>
 <img src="https://i.ibb.co/zXhgFmm/rcboat-st-scream.jpg" alt="drawing" width="250"/>
 </p>
 
-La Muse
+[La Muse](https://www.pablo-ruiz-picasso.net/work-1906.php)
 <p float="center">
 <img src="https://i.ibb.co/JvbvdJV/la-muse.jpg" alt="drawing" width="200"/>
 <img src="https://i.ibb.co/m69TG7K/rcboat.jpg" alt="drawing" width="250"/>
 <img src="https://i.ibb.co/Fsfvp7S/rcboat-st-lamuse.jpg" alt="drawing" width="250"/>
 </p>
 
-Wave
+[The Great Wave of Kanagawa](https://en.wikipedia.org/wiki/The_Great_Wave_off_Kanagawa)
 <p float="center">
 <img src="https://i.ibb.co/BttKY1t/wave.jpg" alt="drawing" width="200"/>
 <img src="https://i.ibb.co/m69TG7K/rcboat.jpg" alt="drawing" width="250"/>
@@ -61,7 +61,7 @@ Wave
 </p>
 
 
-The shipwreck of the minotaur
+[The shipwreck of the minotaur](https://en.wikipedia.org/wiki/HMS_Minotaur_(1793))
 <p float="center">
 <img src="https://i.ibb.co/y4YgcJh/the-shipwreck-of-the-minotaur.jpg" alt="drawing" width="200"/>
 <img src="https://i.ibb.co/m69TG7K/rcboat.jpg" alt="drawing" width="250"/>
