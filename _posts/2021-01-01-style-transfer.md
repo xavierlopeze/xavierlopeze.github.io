@@ -23,9 +23,11 @@ A great repository I found is [fast style transfer](https://github.com/lengstrom
 I have applied it on a picture of myself and applied it the style of [Udnie](https://en.wikipedia.org/wiki/File:Francis_Picabia,_1913,_Udnie_(Young_American_Girl,_The_Dance),_oil_on_canvas,_290_x_300_cm,_Mus%C3%A9e_National_d%E2%80%99Art_Moderne,_Centre_Georges_Pompidou,_Paris..jpg).
 Moreover the authors have trained with [other styles](https://github.com/lengstrom/fast-style-transfer/tree/master/examples/style) and uploaded the trained [weights](https://drive.google.com/drive/folders/0B9jhaT37ydSyRk9UX0wwX3BpMzQ) ready to be used!
 
-![Udnie](https://i.ibb.co/JrXpGgN/rcboat-st-udnie.jpg){: .mx-auto.d-block :}
+-- ![Udnie](https://i.ibb.co/JrXpGgN/rcboat-st-udnie.jpg){: .mx-auto.d-block :}
 
-<img src="https://i.ibb.co/JrXpGgN/rcboat-st-udnie.jpg" alt="drawing" width="200"/>
+<img src="https://i.ibb.co/NKMTrWR/udnie.jpg" alt="drawing" width="300"/>
+<img src="https://i.ibb.co/m69TG7K/rcboat.jpg" alt="drawing" width="300"/>
+<img src="https://i.ibb.co/JrXpGgN/rcboat-st-udnie.jpg" alt="drawing" width="300"/>
 
 # Try it yourself
 
@@ -55,6 +57,3 @@ python evaluate.py --checkpoint ./rain-princess.ckpt --in-path <path_to_input_fi
 
 {: .box-note}
 **Note:** Be careful with the size of the input image. The style transfer can take quite a while to run on larger images.
-
-
-<a href="" alt="rcboat-st-udnie" border="0"></a>
