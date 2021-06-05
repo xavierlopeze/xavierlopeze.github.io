@@ -36,7 +36,7 @@ python -c "import imageio; imageio.plugins.ffmpeg.download()"
 
 
 1. Clone the repository [fast style transfer](https://github.com/lengstrom/fast-style-transfer).
-2. Download the Rain Princess checkpoint from here. Put it in the fast-style-transfer folder. A checkpoint file is a model that already has tuned parameters. By using this checkpoint file, we won't need to train the model and can get straight to applying it.
+2. Download the Rain Princess checkpoint from [here](https://drive.google.com/drive/folders/0B9jhaT37ydSyRk9UX0wwX3BpMzQ). Put it in the fast-style-transfer folder. A checkpoint file is a model that already has tuned parameters. By using this checkpoint file, we won't need to train the model and can get straight to applying it.
 3. Copy the image you want to style into the fast-style-transfer folder.
 4. Enter the Conda environment you created above, if you aren't still in it.
 
@@ -46,9 +46,7 @@ Finally, in your terminal, navigate to the fast-style-transfer folder and enter:
  
  ~~~
 python evaluate.py --checkpoint ./rain-princess.ckpt --in-path <path_to_input_file> --out-path ./output_image.jpg
-
 ~~~
-
 
 {: .box-note}
 **Note:** Be careful with the size of the input image. The style transfer can take quite a while to run on larger images.
