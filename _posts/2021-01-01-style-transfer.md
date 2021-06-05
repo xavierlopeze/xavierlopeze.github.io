@@ -20,7 +20,10 @@ The network **learns the underlying techniques of the paintings** and figures ou
 A great repository I found is [fast style transfer](https://github.com/lengstrom/fast-style-transfer) which contains an implementation of style tranfer on images and even [videos](https://www.youtube.com/watch?v=xVJwwWQlQ1o&ab_channel=LoganEngstrom)!
 
 
-I have applied it on a picture of my
+I have applied it on a picture of myself and applied it the style of [Udnie](https://en.wikipedia.org/wiki/File:Francis_Picabia,_1913,_Udnie_(Young_American_Girl,_The_Dance),_oil_on_canvas,_290_x_300_cm,_Mus%C3%A9e_National_d%E2%80%99Art_Moderne,_Centre_Georges_Pompidou,_Paris..jpg)
+
+![Udnie](https://ibb.co/VTswxM6){: .mx-auto.d-block :}
+
 
 
 # Try it yourself
