@@ -4,7 +4,7 @@ title: Style Transfer
 subtitle: Styling with Neural Networks
 gh-repo: lengstrom/fast-style-transfer
 gh-badge: [star, fork, follow]
-tags: [test]
+tags: [Neural Style Transfer, Neural Networks, Deep Learning]
 comments: false
 ---
 
@@ -103,7 +103,13 @@ python evaluate.py --checkpoint ./rain-princess.ckpt --in-path <path_to_input_fi
 **Note:** Be careful with the size of the input image. The style transfer can take quite a while to run on larger images.
 
 
-### Interesting Papers to read
+#### Interesting Papers to read
+- [A Neural Algorithm of Artistic Style](https://arxiv.org/abs/1508.06576)
+- [Perceptual Losses for Real-Time Style Transfer
+and Super-Resolution](https://cs.stanford.edu/people/jcjohns/eccv16/)
+- [Instance Normalization: The Missing Ingredient for Fast Stylization](https://arxiv.org/abs/1607.08022)
+-[A Neural Algorithm of Artistic Style](https://arxiv.org/abs/1508.06576)
+-[Texture Synthesis Using Convolutional Neural Networks (https://arxiv.org/abs/1505.07376)
 
 
 
