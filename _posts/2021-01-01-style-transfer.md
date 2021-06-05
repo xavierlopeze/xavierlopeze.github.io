@@ -11,29 +11,44 @@ comments: false
 The power and capability of Neural Networks goes beyond classification or prediction, a particularly beautyful application of NN is style transfer.
 
 
-Style transfer allows you to recreate your own images adding the style of famous paintings.
+**Style transfer** allows you to recreate your own images adding the style of famous paintings.
 
 
-The network learns the underlying techniques of the paintings and figures out how to apply them on new images (or videos) on its own.
+The network **learns the underlying techniques of the paintings** and figures out how to apply them on new images (or videos) on its own.
 
 
-[fast style transfer](https://github.com/lengstrom/fast-style-transfer) is a great repository with an implementation of style tranfer on images and even [videos](https://www.youtube.com/watch?v=xVJwwWQlQ1o&ab_channel=LoganEngstrom)!
+A great repository I found is [fast style transfer](https://github.com/lengstrom/fast-style-transfer) which contains an implementation of style tranfer on images and even [videos](https://www.youtube.com/watch?v=xVJwwWQlQ1o&ab_channel=LoganEngstrom)!
 
 
+I have applied it on a picture of my
 
+
+# Try it yourself
+
+Start by setting up your enviornment:
+~~~
+conda create -n style-transfer python=3
+conda activate style-transfer
+conda install tensorflow scipy pillow
+pip install moviepy
+python -c "import imageio; imageio.plugins.ffmpeg.download()"
+~~~
+
+
+1. Clone the repository [fast style transfer](https://github.com/lengstrom/fast-style-transfer).
+2. Download the Rain Princess checkpoint from here. Put it in the fast-style-transfer folder. A checkpoint file is a model that already has tuned parameters. By using this checkpoint file, we won't need to train the model and can get straight to applying it.
+3. Copy the image you want to style into the fast-style-transfer folder.
+4. Enter the Conda environment you created above, if you aren't still in it.
+
+
+Finally, in your terminal, navigate to the fast-style-transfer folder and enter:
+ 
+ 
+ ~~~
+python evaluate.py --checkpoint ./rain-princess.ckpt --in-path <path_to_input_file> --out-path ./output_image.jpg
 
 ~~~
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-~~~
 
-And here is the same code with syntax highlighting:
 
-```javascript
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-```
+{: .box-note}
+**Note:** Be careful with the size of the input image. The style transfer can take quite a while to run on larger images.
