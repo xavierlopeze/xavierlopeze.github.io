@@ -8,6 +8,14 @@ tags: [test]
 comments: true
 ---
 
+The power and capability of Neural Networks goes beyond classification or prediction, a particularly beautyful application of NN is style transfer.
+Style transfer allows you to recreate your own images adding the style of famous paintings.
+The network learns the underlying techniques of the paintings and figures out how to apply them on new images (or videos) on its own.
+
+
+I used it to style my cat Chihiro in the style of Hokusai's The Great Wave Off Kanagawa.
+
+
 This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
 
 **Here is some bold text**
