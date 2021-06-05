@@ -22,8 +22,7 @@ A great repository I found is [fast style transfer](https://github.com/lengstrom
 
 I have applied it on a picture of myself and applied it the style of [Udnie](https://en.wikipedia.org/wiki/File:Francis_Picabia,_1913,_Udnie_(Young_American_Girl,_The_Dance),_oil_on_canvas,_290_x_300_cm,_Mus%C3%A9e_National_d%E2%80%99Art_Moderne,_Centre_Georges_Pompidou,_Paris..jpg)
 
-![Udnie](https://ibb.co/VTswxM6){: .mx-auto.d-block :}
-
+![Udnie](./pictures/udnie.jpg)
 
 
 # Try it yourself
@@ -37,6 +36,7 @@ pip install moviepy
 python -c "import imageio; imageio.plugins.ffmpeg.download()"
 ~~~
 
+Then:
 
 1. Clone the repository [fast style transfer](https://github.com/lengstrom/fast-style-transfer).
 2. Download the Rain Princess checkpoint from [here](https://drive.google.com/drive/folders/0B9jhaT37ydSyRk9UX0wwX3BpMzQ). Put it in the fast-style-transfer folder. A checkpoint file is a model that already has tuned parameters. By using this checkpoint file, we won't need to train the model and can get straight to applying it.
