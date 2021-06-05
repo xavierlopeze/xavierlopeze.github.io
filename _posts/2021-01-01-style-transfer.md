@@ -30,7 +30,7 @@ Moreover the authors have trained with [other styles](https://github.com/lengstr
 <img src="https://i.ibb.co/JrXpGgN/rcboat-st-udnie.jpg" alt="drawing" width="250"/>
 </p>
 
-# Try it yourself
+### Try it yourself!
 
 Start by setting up your enviornment:
 ~~~
