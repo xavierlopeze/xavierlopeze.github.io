@@ -46,11 +46,11 @@ The Scream
 <img src="https://i.ibb.co/zXhgFmm/rcboat-st-scream.jpg" alt="drawing" width="250"/>
 </p>
 
-The shipwreck of the minotaur
+La Muse
 <p float="center">
-<img src="https://i.ibb.co/y4YgcJh/the-shipwreck-of-the-minotaur.jpg" alt="drawing" width="200"/>
+<img src="https://i.ibb.co/JvbvdJV/la-muse.jpg" alt="drawing" width="200"/>
 <img src="https://i.ibb.co/m69TG7K/rcboat.jpg" alt="drawing" width="250"/>
-<img src="https://i.ibb.co/Px5ny2K/rcboat-st-wreck.jpg" alt="drawing" width="250"/>
+<img src="https://i.ibb.co/Fsfvp7S/rcboat-st-lamuse.jpg" alt="drawing" width="250"/>
 </p>
 
 Wave
@@ -60,12 +60,16 @@ Wave
 <img src="https://i.ibb.co/rx9Cxxq/rcboat-st-wave.jpg" alt="drawing" width="250"/>
 </p>
 
-La Muse
+
+The shipwreck of the minotaur
 <p float="center">
-<img src="https://i.ibb.co/JvbvdJV/la-muse.jpg" alt="drawing" width="200"/>
+<img src="https://i.ibb.co/y4YgcJh/the-shipwreck-of-the-minotaur.jpg" alt="drawing" width="200"/>
 <img src="https://i.ibb.co/m69TG7K/rcboat.jpg" alt="drawing" width="250"/>
-<img src="https://i.ibb.co/Fsfvp7S/rcboat-st-lamuse.jpg" alt="drawing" width="250"/>
+<img src="https://i.ibb.co/Px5ny2K/rcboat-st-wreck.jpg" alt="drawing" width="250"/>
 </p>
+
+
+
 
 
 
