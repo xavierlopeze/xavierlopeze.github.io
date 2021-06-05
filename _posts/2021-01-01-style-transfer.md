@@ -25,6 +25,8 @@ Moreover the authors have trained with [other styles](https://github.com/lengstr
 
 ![Udnie](https://i.ibb.co/JrXpGgN/rcboat-st-udnie.jpg | width=100){: .mx-auto.d-block :}
 
+<img src="https://i.ibb.co/JrXpGgN/rcboat-st-udnie.jpg" alt="drawing" width="200"/>
+
 # Try it yourself
 
 Start by setting up your enviornment:
