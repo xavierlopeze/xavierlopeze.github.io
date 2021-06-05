@@ -24,9 +24,11 @@ I have applied it on a picture of myself and applied it the style of [Udnie](htt
 Moreover the authors have trained with [other styles](https://github.com/lengstrom/fast-style-transfer/tree/master/examples/style) and uploaded the trained [weights](https://drive.google.com/drive/folders/0B9jhaT37ydSyRk9UX0wwX3BpMzQ) ready to be used!
 
 
+<p float="left">
 <img src="https://i.ibb.co/NKMTrWR/udnie.jpg" alt="drawing" width="200"/>
 <img src="https://i.ibb.co/m69TG7K/rcboat.jpg" alt="drawing" width="200"/>
 <img src="https://i.ibb.co/JrXpGgN/rcboat-st-udnie.jpg" alt="drawing" width="200"/>
+</p>
 
 # Try it yourself
 
