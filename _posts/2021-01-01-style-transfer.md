@@ -103,7 +103,7 @@ python evaluate.py --checkpoint ./rain-princess.ckpt --in-path <path_to_input_fi
 **Note:** Be careful with the size of the input image. The style transfer can take quite a while to run on larger images.
 
 
-### Interesting Papers to ready
+### Interesting Papers to read
 
 
 
