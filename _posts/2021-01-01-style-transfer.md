@@ -34,9 +34,9 @@ Moreover the authors have trained with [other styles](https://github.com/lengstr
 
 Rain Princess
 <p float="center">
-<img src="https://i.ibb.co/KNW2zJL/rcboat-st.jpg" alt="drawing" width="200"/>
+<img src="https://i.ibb.co/G3jC6fK/rain-princess.jpg" alt="drawing" width="200"/>
 <img src="https://i.ibb.co/m69TG7K/rcboat.jpg" alt="drawing" width="250"/>
-<img src="https://i.ibb.co/JrXpGgN/rcboat-st-udnie.jpg" alt="drawing" width="250"/>
+<img src="https://i.ibb.co/KNW2zJL/rcboat-st.jpg" alt="drawing" width="250"/>
 </p>
 
 The Scream
