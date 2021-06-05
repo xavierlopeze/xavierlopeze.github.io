@@ -1,46 +1,21 @@
 ---
 layout: post
 title: Style Transfer
-subtitle: Each post also has a subtitle
-gh-repo: daattali/beautiful-jekyll
+subtitle: Styling with Neural Networks
+gh-repo: lengstrom/fast-style-transfer
 gh-badge: [star, fork, follow]
 tags: [test]
-comments: true
+comments: false
 ---
 
 The power and capability of Neural Networks goes beyond classification or prediction, a particularly beautyful application of NN is style transfer.
 Style transfer allows you to recreate your own images adding the style of famous paintings.
 The network learns the underlying techniques of the paintings and figures out how to apply them on new images (or videos) on its own.
 
-
-I used it to style my cat Chihiro in the style of Hokusai's The Great Wave Off Kanagawa.
-
-
-This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
-
-**Here is some bold text**
-
-## Here is a secondary heading
-
-Here's a useless table:
-
-| Number | Next number | Previous number |
-| :------ |:--- | :--- |
-| Five | Six | Four |
-| Ten | Eleven | Nine |
-| Seven | Eight | Six |
-| Two | Three | One |
+[fast style transfer](https://github.com/lengstrom/fast-style-transfer) is a great repository with an implementation of style tranfer on images and even [videos](https://www.youtube.com/watch?v=xVJwwWQlQ1o&ab_channel=LoganEngstrom)!
 
 
-How about a yummy crepe?
 
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
-
-It can also be centered!
-
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg){: .mx-auto.d-block :}
-
-Here's a code chunk:
 
 ~~~
 var foo = function(x) {
@@ -57,30 +32,3 @@ var foo = function(x) {
 }
 foo(3)
 ```
-
-And here is the same code yet again but with line numbers:
-
-{% highlight javascript linenos %}
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-{% endhighlight %}
-
-## Boxes
-You can add notification, warning and error boxes like this:
-
-### Notification
-
-{: .box-note}
-**Note:** This is a notification box.
-
-### Warning
-
-{: .box-warning}
-**Warning:** This is a warning box.
-
-### Error
-
-{: .box-error}
-**Error:** This is an error box.
