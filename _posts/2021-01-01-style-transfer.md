@@ -30,6 +30,45 @@ Moreover the authors have trained with [other styles](https://github.com/lengstr
 <img src="https://i.ibb.co/JrXpGgN/rcboat-st-udnie.jpg" alt="drawing" width="250"/>
 </p>
 
+### Check the other styles:
+
+Rain Princess
+<p float="center">
+<img src="https://i.ibb.co/KNW2zJL/rcboat-st.jpg" alt="drawing" width="200"/>
+<img src="https://i.ibb.co/m69TG7K/rcboat.jpg" alt="drawing" width="250"/>
+<img src="https://i.ibb.co/JrXpGgN/rcboat-st-udnie.jpg" alt="drawing" width="250"/>
+</p>
+
+The Scream
+<p float="center">
+<img src="https://i.ibb.co/9t2MBfD/the-scream.jpg" alt="drawing" width="200"/>
+<img src="https://i.ibb.co/m69TG7K/rcboat.jpg" alt="drawing" width="250"/>
+<img src="https://i.ibb.co/zXhgFmm/rcboat-st-scream.jpg" alt="drawing" width="250"/>
+</p>
+
+The shipwreck of the minotaur
+<p float="center">
+<img src="https://i.ibb.co/y4YgcJh/the-shipwreck-of-the-minotaur.jpg" alt="drawing" width="200"/>
+<img src="https://i.ibb.co/m69TG7K/rcboat.jpg" alt="drawing" width="250"/>
+<img src="https://i.ibb.co/Px5ny2K/rcboat-st-wreck.jpg" alt="drawing" width="250"/>
+</p>
+
+Wave
+<p float="center">
+<img src="https://i.ibb.co/BttKY1t/wave.jpg" alt="drawing" width="200"/>
+<img src="https://i.ibb.co/m69TG7K/rcboat.jpg" alt="drawing" width="250"/>
+<img src="https://i.ibb.co/rx9Cxxq/rcboat-st-wave.jpg" alt="drawing" width="250"/>
+</p>
+
+La Muse
+<p float="center">
+<img src="https://i.ibb.co/JvbvdJV/la-muse.jpg" alt="drawing" width="200"/>
+<img src="https://i.ibb.co/m69TG7K/rcboat.jpg" alt="drawing" width="250"/>
+<img src="https://i.ibb.co/Fsfvp7S/rcboat-st-lamuse.jpg" alt="drawing" width="250"/>
+</p>
+
+
+
 ### Try it yourself!
 
 Start by setting up your enviornment:
@@ -58,3 +97,10 @@ python evaluate.py --checkpoint ./rain-princess.ckpt --in-path <path_to_input_fi
 
 {: .box-note}
 **Note:** Be careful with the size of the input image. The style transfer can take quite a while to run on larger images.
+
+
+### Interesting Papers to ready
+
+
+
+
